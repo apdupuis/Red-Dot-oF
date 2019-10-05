@@ -1,1 +1,3 @@
 ofxDelaunay
+ofxOsc
+ofxSpout2
