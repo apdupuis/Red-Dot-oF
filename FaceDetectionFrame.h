@@ -14,6 +14,7 @@ public:
 	void storeTexture(ofTexture new_tex);
 	void storeLandmarks(std::vector<ofVec2f> new_landmarks);
 	void setup(int fbo_width, int fbo_height);
+	void printLandmarks();
 
 private:
 	ofFbo camera_texture_fbo;

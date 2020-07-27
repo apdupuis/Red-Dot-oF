@@ -1,3 +1,4 @@
 ofxDelaunay
+ofxOpenCv
 ofxOsc
 ofxSpout2

@@ -13,6 +13,8 @@ public:
 	void addFaceToCurrentFrame(std::vector<ofVec2f> new_landmarks);
 	FaceDetectionFrame getNextFrame();
 	FaceDetectionFrame getCurrentFrame();
+	void setCurrentFrame(FaceDetectionFrame new_frame);
+	int getLastStoredIndex();
 
 private: 
 	std::vector<FaceDetectionFrame> frames_queue;
