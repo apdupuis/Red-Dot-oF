@@ -17,6 +17,6 @@ Tasks performed:
 
 ## Documentation
 
-[RedDot_Still_2.jpg](https://vimeo.com/manage/368921859)
+[![Red Dot performance](RedDot_Still_2.jpg)](https://vimeo.com/manage/368921859)
 
 Video footage of a 2019 performance can be [found on Vimeo.](https://vimeo.com/manage/368921859)
