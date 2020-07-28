@@ -14,3 +14,9 @@ Tasks performed:
 
 - dlib toolkit for face tracking.
 - ofxSpout for streaming mask textures to Max/MSP for further processing.
+
+## Documentation
+
+[RedDot_Still_2.jpg](https://vimeo.com/manage/368921859)
+
+Video footage of a 2019 performance can be [found on Vimeo.](https://vimeo.com/manage/368921859)
